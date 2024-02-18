@@ -2,7 +2,7 @@
 
 
 - 🔭 Sysadmin e Developer no Corpo de Bombeiros MG
-- 🌱 Aprimorando PHP, CSS, HTML, JS, Shell Script e afins
+- 🌱 Aprimorando Python, PHP, CSS, HTML, JS, Shell Script e afins
 - 👯 Procuro colaborar com Open Source e Software Livre
 - 🤔 Eterno aprendiz de tecnologias de Web Developer
 - 💬 Pergunte-me sobre Linux, Sysadmin
