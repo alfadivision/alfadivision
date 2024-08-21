@@ -2,7 +2,7 @@
 
 
 - 🔭 Sysadmin e Developer no Corpo de Bombeiros MG
-- Estudante de Engenharia de Software
+- 🔭 Estudante de Engenharia de Software
 - 🌱 Aprimorando Python, PHP, CSS, HTML, JS, Shell Script e afins
 - 👯 Procuro colaborar com Open Source e Software Livre
 - 🤔 Eterno aprendiz de tecnologias de Web Developer
