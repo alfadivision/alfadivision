@@ -7,7 +7,7 @@
 - 👯 Procuro colaborar com Open Source e Software Livre
 - 🤔 Eterno aprendiz de tecnologias de Web Developer
 - 💬 Pergunte-me sobre Linux, Sysadmin
-- 📫 Contato: email: alfadivision@gmail.com / Instagram @sandrolinux
+- 📫 Contato: email: bmsandro@gmail.com / Instagram @sandrolinux
 - 😄 Pronouns: ele/dele
 
 <div align="center">
